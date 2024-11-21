@@ -1,14 +1,14 @@
 # Packet-Sniffer
 
-**DEPENDENCIES:**
+## DEPENDENCIES:
 ```
 python3
 python3-pip
 ```
 
--------------------------------------------------------
+---
 
-**INSTALLATION:**
+## INSTALLATION:
 ```
 git clone https://github.com/ilolm/packet-sniffer.git
 cd packet-sniffer
@@ -16,9 +16,9 @@ pip3 install -r requirements.txt
 chmod +x packet_sniffer.py
 ```
 
--------------------------------------------------------
+---
 
-**USAGE:**
+## USAGE:
 ```
 Usage: sudo ./packet_sniffer.py [options]
 
